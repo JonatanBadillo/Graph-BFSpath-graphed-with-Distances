@@ -6,6 +6,10 @@ Visualizing the BFS traversal of a graph can be very helpful in understanding it
 
 ## Graphed Graph with distances
 
+<img width="615" alt="image" src="https://user-images.githubusercontent.com/120596087/224415071-1852f69b-2b73-4910-aa55-b2d175c29e45.png">
 
+### Explanation
+
+In this example we can see that the first node of the search is in color Red, and the distances of each node are based on the adjacent nodes of the directed gaph
 
 In summary, the BFS algorithm and graph visualization in Python are important tools for solving graph-related problems and understanding the structure and relationships within a graph.
